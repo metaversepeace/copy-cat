@@ -1,0 +1,59 @@
+body {
+    border: 1px solid black;
+}
+
+#navbar {
+    color: $gray-100;
+    background-color: black;
+}
+
+.nav {
+    text-decoration: none;
+}
+
+.nav-item {
+    background-color: black;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: $gray-100;
+}
+
+a {
+    text-decoration: none;
+    color: $gray-100;
+}
+
+a:hover {
+    color: white;
+}
+
+.shop {
+    color: white;
+    background-color: rgb(201, 43, 43);
+    margin: auto;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+    text-align: center;
+}
+
+.shop-link {
+    text-decoration: none;
+    color: $gray-100;
+}
+
+#main {
+    background-color: white;
+    padding-top: 3em;
+    padding-bottom: 0.6em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.text-center {
+    padding-right: 10em;
+}

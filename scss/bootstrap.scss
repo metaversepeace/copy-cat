@@ -1,0 +1,9 @@
+// Utility classes
+@import "utilities";
+.nav-link {
+ color: $gray-100;
+
+  @include hover-focus {
+    color: white;
+  }  
+}  
